@@ -19,4 +19,4 @@ Built using **OpenAI Agent SDK + Runner** with **Chainlit UI**.
 ---
 
 👤 **Zubair Ahmed**  
-🔗 [linkedin.com/in/zubairdev](https://linkedin.com/in/zubairdev)
+🔗 [linkedin.com/in/zubairdev](https://www.linkedin.com/posts/zubair-ahmed-06aa13194_just-completed-3-ai-multi-agent-assignments-activity-7352210495245815808-0cDd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC22XZIBQ0a5Md61VVi5F2CIGwUHTVIsTa0)
